@@ -15,7 +15,7 @@ DATA MODEL :-
 ![Screenshot 2024-10-10 232221](https://github.com/user-attachments/assets/229fa857-6242-4199-85ff-d46be7ef71c1)
 
 SALES INSIGHTS :-
-![Screenshot 2024-10-09 181129](https://github.com/user-attachments/assets/6c87d163-f3de-4e93-84d1-c8385126a7f6)
+![Screenshot 2024-10-09 181203](https://github.com/user-attachments/assets/587eeba4-502a-43e4-88c0-fb081e4f9d43)
 
 STEPS FOLLOWS IN THIS PROJECT :-
 
